@@ -1,4 +1,5 @@
 ﻿using System;
+using HardyStemoPairProgram.Hardy;
 
 namespace HardyStemoPairProgram
 {
@@ -6,7 +7,10 @@ namespace HardyStemoPairProgram
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            // KEEP EVERYTHING HERE EMPTY!
+            // 
         }
+
+
     }
 }

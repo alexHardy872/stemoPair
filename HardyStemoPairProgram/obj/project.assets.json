@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\nates\\.nuget\\packages\\": {}
+    "C:\\Users\\AlexHardy\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nates\\Documents\\repositories\\stemoPair\\HardyStemoPairProgram\\HardyStemoPairProgram.csproj",
+      "projectUniqueName": "C:\\Users\\AlexHardy\\Documents\\FUN\\stemoPair\\HardyStemoPairProgram\\HardyStemoPairProgram.csproj",
       "projectName": "HardyStemoPairProgram",
-      "projectPath": "C:\\Users\\nates\\Documents\\repositories\\stemoPair\\HardyStemoPairProgram\\HardyStemoPairProgram.csproj",
-      "packagesPath": "C:\\Users\\nates\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nates\\Documents\\repositories\\stemoPair\\HardyStemoPairProgram\\obj\\",
+      "projectPath": "C:\\Users\\AlexHardy\\Documents\\FUN\\stemoPair\\HardyStemoPairProgram\\HardyStemoPairProgram.csproj",
+      "packagesPath": "C:\\Users\\AlexHardy\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\AlexHardy\\Documents\\FUN\\stemoPair\\HardyStemoPairProgram\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\nates\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\AlexHardy\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
       }
     }
   }
