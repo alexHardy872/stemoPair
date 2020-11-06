@@ -1,0 +1,13 @@
+C:\Users\nates\Documents\repositories\stemoPair\HardyStemoPairProgram\bin\Debug\netcoreapp3.1\HardyStemoPairProgram.exe
+C:\Users\nates\Documents\repositories\stemoPair\HardyStemoPairProgram\bin\Debug\netcoreapp3.1\HardyStemoPairProgram.deps.json
+C:\Users\nates\Documents\repositories\stemoPair\HardyStemoPairProgram\bin\Debug\netcoreapp3.1\HardyStemoPairProgram.runtimeconfig.json
+C:\Users\nates\Documents\repositories\stemoPair\HardyStemoPairProgram\bin\Debug\netcoreapp3.1\HardyStemoPairProgram.runtimeconfig.dev.json
+C:\Users\nates\Documents\repositories\stemoPair\HardyStemoPairProgram\bin\Debug\netcoreapp3.1\HardyStemoPairProgram.dll
+C:\Users\nates\Documents\repositories\stemoPair\HardyStemoPairProgram\bin\Debug\netcoreapp3.1\HardyStemoPairProgram.pdb
+C:\Users\nates\Documents\repositories\stemoPair\HardyStemoPairProgram\obj\Debug\netcoreapp3.1\HardyStemoPairProgram.csprojAssemblyReference.cache
+C:\Users\nates\Documents\repositories\stemoPair\HardyStemoPairProgram\obj\Debug\netcoreapp3.1\HardyStemoPairProgram.AssemblyInfoInputs.cache
+C:\Users\nates\Documents\repositories\stemoPair\HardyStemoPairProgram\obj\Debug\netcoreapp3.1\HardyStemoPairProgram.AssemblyInfo.cs
+C:\Users\nates\Documents\repositories\stemoPair\HardyStemoPairProgram\obj\Debug\netcoreapp3.1\HardyStemoPairProgram.csproj.CoreCompileInputs.cache
+C:\Users\nates\Documents\repositories\stemoPair\HardyStemoPairProgram\obj\Debug\netcoreapp3.1\HardyStemoPairProgram.dll
+C:\Users\nates\Documents\repositories\stemoPair\HardyStemoPairProgram\obj\Debug\netcoreapp3.1\HardyStemoPairProgram.pdb
+C:\Users\nates\Documents\repositories\stemoPair\HardyStemoPairProgram\obj\Debug\netcoreapp3.1\HardyStemoPairProgram.genruntimeconfig.cache
